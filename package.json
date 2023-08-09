@@ -1,0 +1,19 @@
+{
+  "name": "Cucumber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": "https://github.com/DonDarinho/Test.git",
+  "author": "Dariusz Osik <dariusz.osik@amsterdamstandard.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.3.0",
+    "hamjest": "^4.0.1"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "chai": "^4.3.7"
+  }
+}
